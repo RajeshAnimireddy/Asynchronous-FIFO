@@ -1,6 +1,5 @@
 Dual Clock Asynchronous FIFO
 
-markdown
 
 ![Alt text](sim1.png)
 
